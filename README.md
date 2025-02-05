@@ -1,5 +1,10 @@
 # **👽 Tarea - Estacionamiento Intergaláctico** 🚀
 
+## **📢🚨 FECHA LÍMITE: 10 de FEBRERO - 10:00 AM 🚨📢**  
+⚠️ **ENTREGAS FUERA DE TIEMPO NO SERÁN ACEPTADAS.**  
+✅ **Haz `commit` y `push` antes del plazo y verifica tu entrega en GitHub Classroom.**
+
+
 ## **📖 Historia**  
 En el año 3025, los pilotos espaciales que visitan **Marte** deben pagar tarifas de estacionamiento en los **Puertos Orbitales de la Federación Galáctica**.  
 
@@ -97,6 +102,31 @@ ERROR
 
 ---
 
+## **📌 ¿Cómo someter la tarea en GitHub Classroom?**  
+### **📝 Pasos para entregar tu código correctamente:**  
+1. **Acepta la tarea** haciendo clic en este enlace: [Assignment - Estacionamiento Intergaláctico](https://classroom.github.com/a/v33v1tDV).  
+2. **Clona tu repositorio** en tu computadora con el siguiente comando (reemplaza `TU_USUARIO` con tu nombre de usuario en GitHub):  
+   ```bash
+   git clone https://github.com/profesorcito/tarea1-TU_USUARIO.git
+   ```
+3. **Abre el proyecto en CLion** y escribe tu código en el archivo `main.cpp`.  
+4. **Verifica que tu código compile y pase los casos de prueba.**  
+5. **Guarda los cambios y súbelos a GitHub:**  
+   ```bash
+   git add .
+   git commit -m "Intento 1"
+   git push origin master
+   ```
+6. **Revisa en GitHub si tu código se ha subido correctamente.**  
+7. **Verifica los resultados en GitHub Classroom**, donde el sistema de autograding evaluará tu código automáticamente.  
+
+⚠️ **IMPORTANTE:**  
+- **No cambies el nombre del repositorio ni del archivo principal (`main.cpp`).**  
+- **Asegúrate de hacer `commit` y `push` antes de la fecha límite.**  
+- **Si encuentras errores en el autograder, revisa tu salida y ajústala según los ejemplos dados.**  
+
+---
+
 ### **💻 Esqueleto del Código en C++ (Incompleto para que los estudiantes lo completen)**  
 ```cpp
 #include <iostream>
@@ -174,3 +204,5 @@ int main() {
 3. **Rellenar la condición para aplicar el recargo de fin de semana** (`D == 6` o `D == 7`).  
 4. **Rellenar la condición para aplicar el descuento cuando la suma de los dígitos de `H` sea múltiplo de 3**.  
 5. **Probar su código con los ejemplos de entrada/salida para verificar que funcione correctamente.**  
+
+---
