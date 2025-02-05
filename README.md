@@ -104,7 +104,7 @@ ERROR
 
 ## **📌 ¿Cómo someter la tarea en GitHub Classroom?**  
 ### **📝 Pasos para entregar tu código correctamente:**  
-1. **Acepta la tarea** haciendo clic en este enlace: [Assignment - Estacionamiento Intergaláctico](https://classroom.github.com/a/v33v1tDV).  
+1. **Acepta la tarea**.  
 2. **Clona tu repositorio** en tu computadora con el siguiente comando (reemplaza `TU_USUARIO` con tu nombre de usuario en GitHub):  
    ```bash
    git clone https://github.com/profesorcito/tarea1-TU_USUARIO.git
